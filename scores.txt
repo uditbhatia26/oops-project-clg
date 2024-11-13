@@ -1,0 +1,5 @@
+Udit: 30
+Manas: 10
+Prantik: 10
+Manas: 10
+Udit: 20
