@@ -25,5 +25,3 @@ The `questions.txt` file should contain questions in the following format:
 - Each question followed by four options.
 - Correct answer (A, B, C, or D) on a new line.
 - A blank line between each question set.
-
-Example:
